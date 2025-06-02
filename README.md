@@ -1,5 +1,5 @@
 ## 🌙 about me
-🌱 i’m currently doing an introductory cloud computing course<br>🧩 i'm also interested in exploring full-stack development
+🌱 i’m currently pursuing a b.tech in computer science and engineering
 
 
 ## 🌐 socials
